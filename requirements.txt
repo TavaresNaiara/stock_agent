@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+yfinance
+joblib
+fastapi
+uvicorn[standard]
+pydantic
+matplotlib
+ta
+python-dotenv
